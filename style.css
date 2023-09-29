@@ -1,0 +1,16 @@
+body{
+    margin: 3% 3% 3% 3%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.centraliza{
+    text-align: center;
+}
+
+.subtitulo{
+    font-size: 1.5rem;
+}
